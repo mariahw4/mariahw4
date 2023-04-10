@@ -6,5 +6,6 @@
 - 📫 How to reach me: <wearmariahk@gmail.com>
 
 - 📚 Currently studying and practicing here!
-    - [HackerRank](https://www.hackerrank.com/wearmariahk)
+    - [CodeWars](https://www.codewars.com/users/mariahw4)  
     - [CodeSignal](https://app.codesignal.com/profile/mariahw4)
+    - [HackerRank](https://www.hackerrank.com/wearmariahk)
