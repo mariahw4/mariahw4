@@ -11,4 +11,4 @@
     - [CodeSignal](https://app.codesignal.com/profile/mariahw4)
     - [HackerRank](https://www.hackerrank.com/wearmariahk)
 
-- 🔹Lets connect on [LinkedIn](https://www.linkedin.com/mariah-wear-7b1630255)
+- 🔹Lets connect on [LinkedIn](https://www.linkedin.com/mwlite/in/mariah-wear-7b1630255)
