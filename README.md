@@ -2,7 +2,7 @@
 
 - 🔭 I’m a puzzle lover!
 - 🫶🏻 I love playing outside in my free time.
-- 🌱 I’m currently studying full stack web development!
+- 🌱 I recently completed 250 hours of study at the UC Berkeley Extension Full Stack Web Development Bootcamp through EdX
 - ✨ MERN stack | JavaScript | HTML & CSS | API
 - 📫 How to reach me: <wearmariahk@gmail.com>
 - 🔹Lets connect on [LinkedIn](https://www.linkedin.com/mwlite/in/mariah-wear-7b1630255)
