@@ -9,7 +9,7 @@
 - 💡 Working on Continuing Education courses available through edX in AWS, C#, Java and Python
 
 
-- 📫 How to reach me: <wearmariahk@gmail.com>
+- 📫 How to reach me: <mariahweardev@gmail.com>
 - 🔹Lets connect on [LinkedIn](https://www.linkedin.com/mwlite/in/mariah-wear-7b1630255)
 
 
