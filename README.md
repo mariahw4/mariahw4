@@ -4,7 +4,7 @@
 - 🫶🏻 I love playing outside in my free time.
 
 
-- 🌱 I recently completed 250 hours of study at the UC Berkeley Extension Full Stack Web Development Bootcamp through edX
+- 🌱 I completed 250 hours of study at the UC Berkeley Extension Full Stack Web Development Bootcamp through edX --> and now am part of the instructional staff as a teaching assistant! Very rewarding to give back, and continue my education - no better way to cement knowledge than to teach it!! 
 - ✨ MERN stack | JavaScript | HTML & CSS | API
 - 💡 Working on Continuing Education courses available through edX in AWS, C#, Java and Python
 
